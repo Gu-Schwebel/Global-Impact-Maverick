@@ -16,5 +16,11 @@ Realizar o comando:
 
 Com isso, a aplicação estará disponivel na url _http://localhost:3000_ 
 
+---
 
+Integrantes do Grupo: 
 
+Gisele Moherdaui Todão		82001	
+Gustavo Schwebel Sanches	81889	
+Roberto Lapetina Calixto	82100	
+Walace Alves Santos		    82730	
