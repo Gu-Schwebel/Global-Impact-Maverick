@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #c8c8c8;
+}
+#main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+#card {
+  width: 90vw;
+  height: 90vh;
+  overflow: auto;
+}
+#titles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+#subtitle {
+  margin-top: 10px;
+}
+#sistema {
+  display: flex;
+  align-items: center;
+  padding: 20px 0px 10px 20px;
+}
+#sistema :first-child {
+  margin-right: 51px;
+}
+#sistemaSelect {
+  padding: 5px 10px 3px 10px;
+}
+#tratamento {
+  display: flex;
+  align-items: center;
+  padding: 10px 0px 40px 20px;
+}
+#tratamento :first-child {
+  margin-right: 20px;
+}
+#tratamentoSelect {
+  padding: 5px 10px 3px 10px;
+}
+#table {
+  width: 48%;
+}
+#graph {
+  width: 48%;
+  margin-top: -60px;
+}
+#table * {
+  padding: 5px;
+}
+#data {
+  display: flex;
+  padding: 2%;
+}

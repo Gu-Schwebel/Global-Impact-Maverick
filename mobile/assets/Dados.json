@@ -1,0 +1,1718 @@
+{
+    "ALTO TIETÊ":
+    {
+        "municipio": "SÃO PAULO",
+        "dados": {
+            "turbidez": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 563,
+                    "realizado": 614,
+                    "conforme": 613
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 563,
+                    "realizado": 593,
+                    "conforme": 593
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 563,
+                    "realizado": 597,
+                    "conforme": 597
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 563,
+                    "realizado": 586,
+                    "conforme": 586
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 563,
+                    "realizado": 587,
+                    "conforme": 587
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 563,
+                    "realizado": 582,
+                    "conforme": 582
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 563,
+                    "realizado": 590,
+                    "conforme": 590
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 242,
+                    "realizado": 593,
+                    "conforme": 593
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 242,
+                    "realizado": 373,
+                    "conforme": 373
+                }
+            ],
+            "cor aparente": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 124,
+                    "realizado": 189,
+                    "conforme": 188
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 124,
+                    "realizado": 182,
+                    "conforme": 181
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 124,
+                    "realizado": 183,
+                    "conforme": 181
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 124,
+                    "realizado": 181,
+                    "conforme": 181
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 124,
+                    "realizado": 184,
+                    "conforme": 184
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 124,
+                    "realizado": 255,
+                    "conforme": 254
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 124,
+                    "realizado": 261,
+                    "conforme": 261
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 242,
+                    "realizado": 593,
+                    "conforme": 591
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 242,
+                    "realizado": 373,
+                    "conforme": 371
+                }
+            ],
+            "cloro residual livre": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 563,
+                    "realizado": 614,
+                    "conforme": 614
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 563,
+                    "realizado": 593,
+                    "conforme": 593
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 563,
+                    "realizado": 597,
+                    "conforme": 597
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 563,
+                    "realizado": 586,
+                    "conforme": 586
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 563,
+                    "realizado": 587,
+                    "conforme": 587
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 563,
+                    "realizado": 582,
+                    "conforme": 582
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 563,
+                    "realizado": 590,
+                    "conforme": 590
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 242,
+                    "realizado": 593,
+                    "conforme": 593
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 242,
+                    "realizado": 373,
+                    "conforme": 373
+                }
+            ],
+            "coliforme total": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 563,
+                    "realizado": 614,
+                    "conforme": 614
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 563,
+                    "realizado": 593,
+                    "conforme": 591
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 563,
+                    "realizado": 597,
+                    "conforme": 592
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 563,
+                    "realizado": 583,
+                    "conforme": 579
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 563,
+                    "realizado": 587,
+                    "conforme": 582
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 563,
+                    "realizado": 582,
+                    "conforme": 582
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 563,
+                    "realizado": 589,
+                    "conforme": 586
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 242,
+                    "realizado": 593,
+                    "conforme": 592
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 242,
+                    "realizado": 371,
+                    "conforme": 371
+                }
+            ],
+            "ecoli": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 563,
+                    "realizado": 614,
+                    "conforme": 614
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 563,
+                    "realizado": 593,
+                    "conforme": 593
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 563,
+                    "realizado": 597,
+                    "conforme": 597
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 563,
+                    "realizado": 583,
+                    "conforme": 583
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 563,
+                    "realizado": 587,
+                    "conforme": 587
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 563,
+                    "realizado": 582,
+                    "conforme": 582
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 563,
+                    "realizado": 589,
+                    "conforme": 589
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 242,
+                    "realizado": 593,
+                    "conforme": 593
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 242,
+                    "realizado": 371,
+                    "conforme": 371
+                }
+            ]
+        }
+    },
+    "CANTAREIRA":
+    {
+        "municipio": "SÃO PAULO",
+        "dados": {
+            "turbidez": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 725,
+                    "realizado": 792,
+                    "conforme": 792
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 725,
+                    "realizado": 793,
+                    "conforme": 791
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 725,
+                    "realizado": 797,
+                    "conforme": 794
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 725,
+                    "realizado": 808,
+                    "conforme": 808
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 725,
+                    "realizado": 792,
+                    "conforme": 792
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 725,
+                    "realizado": 805,
+                    "conforme": 805
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 725,
+                    "realizado": 807,
+                    "conforme": 807
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 290,
+                    "realizado": 773,
+                    "conforme": 772
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 290,
+                    "realizado": 598,
+                    "conforme": 596
+                }
+            ],
+            "cor aparente": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 231,
+                    "realizado": 273,
+                    "conforme": 273
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 231,
+                    "realizado": 269,
+                    "conforme": 269
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 231,
+                    "realizado": 279,
+                    "conforme": 279
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 231,
+                    "realizado": 284,
+                    "conforme": 284
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 231,
+                    "realizado": 276,
+                    "conforme": 276
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 231,
+                    "realizado": 454,
+                    "conforme": 454
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 231,
+                    "realizado": 495,
+                    "conforme": 495
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 290,
+                    "realizado": 773,
+                    "conforme": 772
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 290,
+                    "realizado": 598,
+                    "conforme": 595
+                }
+            ],
+            "cloro residual livre": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 725,
+                    "realizado": 792,
+                    "conforme": 792
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 725,
+                    "realizado": 793,
+                    "conforme": 793
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 725,
+                    "realizado": 797,
+                    "conforme": 797
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 725,
+                    "realizado": 807,
+                    "conforme": 807
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 725,
+                    "realizado": 793,
+                    "conforme": 793
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 725,
+                    "realizado": 805,
+                    "conforme": 805
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 725,
+                    "realizado": 810,
+                    "conforme": 810
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 290,
+                    "realizado": 773,
+                    "conforme": 773
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 290,
+                    "realizado": 592,
+                    "conforme": 592
+                }
+            ],
+            "coliforme total": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 725,
+                    "realizado": 790,
+                    "conforme": 784
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 725,
+                    "realizado": 793,
+                    "conforme": 784
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 725,
+                    "realizado": 797,
+                    "conforme": 790
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 725,
+                    "realizado": 804,
+                    "conforme": 801
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 725,
+                    "realizado": 792,
+                    "conforme": 781
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 725,
+                    "realizado": 802,
+                    "conforme": 786
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 725,
+                    "realizado": 801,
+                    "conforme": 798
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 290,
+                    "realizado": 773,
+                    "conforme": 772
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 290,
+                    "realizado": 592,
+                    "conforme": 589
+                }
+            ],
+            "ecoli": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 725,
+                    "realizado": 790,
+                    "conforme": 790
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 725,
+                    "realizado": 793,
+                    "conforme": 793
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 725,
+                    "realizado": 797,
+                    "conforme": 796
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 725,
+                    "realizado": 804,
+                    "conforme": 804
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 725,
+                    "realizado": 792,
+                    "conforme": 792
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 725,
+                    "realizado": 802,
+                    "conforme": 802
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 725,
+                    "realizado": 801,
+                    "conforme": 801
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 290,
+                    "realizado": 773,
+                    "conforme": 773
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 290,
+                    "realizado": 592,
+                    "conforme": 592
+                }
+            ]
+        }
+    },
+    "GUARAPIRANGA":
+    {
+        "municipio": "SÃO PAULO",
+        "dados": {
+            "turbidez": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 801,
+                    "realizado": 801,
+                    "conforme": 790
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 801,
+                    "realizado": 832,
+                    "conforme": 829
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 801,
+                    "realizado": 803,
+                    "conforme": 801
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 801,
+                    "realizado": 809,
+                    "conforme": 805
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 801,
+                    "realizado": 834,
+                    "conforme": 831
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 801,
+                    "realizado": 810,
+                    "conforme": 805
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 801,
+                    "realizado": 804,
+                    "conforme": 800
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 346,
+                    "realizado": 392,
+                    "conforme": 389
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 346,
+                    "realizado": 350,
+                    "conforme": 348
+                }
+            ],
+            "cor aparente": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 177,
+                    "realizado": 229,
+                    "conforme": 227
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 177,
+                    "realizado": 211,
+                    "conforme": 210
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 177,
+                    "realizado": 211,
+                    "conforme": 211
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 177,
+                    "realizado": 222,
+                    "conforme": 222
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 177,
+                    "realizado": 209,
+                    "conforme": 208
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 177,
+                    "realizado": 227,
+                    "conforme": 227
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 177,
+                    "realizado": 252,
+                    "conforme": 252
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 346,
+                    "realizado": 392,
+                    "conforme": 390
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 346,
+                    "realizado": 350,
+                    "conforme": 346
+                }
+            ],
+            "cloro residual livre": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 801,
+                    "realizado": 803,
+                    "conforme": 775
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 801,
+                    "realizado": 831,
+                    "conforme": 816
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 801,
+                    "realizado": 805,
+                    "conforme": 793
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 801,
+                    "realizado": 810,
+                    "conforme": 803
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 801,
+                    "realizado": 834,
+                    "conforme": 825
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 801,
+                    "realizado": 811,
+                    "conforme": 803
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 801,
+                    "realizado": 810,
+                    "conforme": 807
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 346,
+                    "realizado": 390,
+                    "conforme": 386
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 346,
+                    "realizado": 352,
+                    "conforme": 340
+                }
+            ],
+            "coliforme total": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 801,
+                    "realizado": 801,
+                    "conforme": 792
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 801,
+                    "realizado": 832,
+                    "conforme": 816
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 801,
+                    "realizado": 804,
+                    "conforme": 789
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 801,
+                    "realizado": 805,
+                    "conforme": 777
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 801,
+                    "realizado": 825,
+                    "conforme": 816
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 801,
+                    "realizado": 808,
+                    "conforme": 807
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 801,
+                    "realizado": 804,
+                    "conforme": 800
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 346,
+                    "realizado": 392,
+                    "conforme": 391
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 346,
+                    "realizado": 349,
+                    "conforme": 347
+                }
+            ],
+            "ecoli": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 801,
+                    "realizado": 801,
+                    "conforme": 801
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 801,
+                    "realizado": 832,
+                    "conforme": 832
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 801,
+                    "realizado": 804,
+                    "conforme": 804
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 801,
+                    "realizado": 805,
+                    "conforme": 805
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 801,
+                    "realizado": 825,
+                    "conforme": 825
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 801,
+                    "realizado": 808,
+                    "conforme": 808
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 801,
+                    "realizado": 804,
+                    "conforme": 804
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 346,
+                    "realizado": 392,
+                    "conforme": 392
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 346,
+                    "realizado": 349,
+                    "conforme": 349
+                }
+            ]
+        }
+    },
+    "MARSILAC":
+    {
+        "municipio": "SÃO PAULO",
+        "dados": {
+            "turbidez": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 9
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 10,
+                    "realizado": 12,
+                    "conforme": 12
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 5,
+                    "realizado": 7,
+                    "conforme": 7
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 5,
+                    "realizado": 5,
+                    "conforme": 5
+                }
+            ],
+            "cor aparente": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 5,
+                    "realizado": 7,
+                    "conforme": 7
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 5,
+                    "realizado": 6,
+                    "conforme": 6
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 5,
+                    "realizado": 5,
+                    "conforme": 5
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 5,
+                    "realizado": 7,
+                    "conforme": 7
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 5,
+                    "realizado": 6,
+                    "conforme": 6
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 5,
+                    "realizado": 8,
+                    "conforme": 8
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 5,
+                    "realizado": 6,
+                    "conforme": 6
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 5,
+                    "realizado": 7,
+                    "conforme": 7
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 5,
+                    "realizado": 5,
+                    "conforme": 5
+                }
+            ],
+            "cloro residual livre": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 10,
+                    "realizado": 13,
+                    "conforme": 13
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 5,
+                    "realizado": 7,
+                    "conforme": 7
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 5,
+                    "realizado": 5,
+                    "conforme": 5
+                }
+            ],
+            "coliforme total": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 10,
+                    "realizado": 12,
+                    "conforme": 12
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 5,
+                    "realizado": 7,
+                    "conforme": 7
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 5,
+                    "realizado": 5,
+                    "conforme": 5
+                }
+            ],
+            "ecoli": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 10,
+                    "realizado": 12,
+                    "conforme": 12
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 5,
+                    "realizado": 7,
+                    "conforme": 7
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 5,
+                    "realizado": 5,
+                    "conforme": 5
+                }
+            ]
+        }
+    },
+    "ORIENTAL":
+    {
+        "municipio": "SÃO PAULO",
+        "dados": {
+            "turbidez": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 10,
+                    "realizado": 10,
+                    "conforme": 10
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 10
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 10
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 10,
+                    "realizado": 12,
+                    "conforme": 10
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 5,
+                    "realizado": 7,
+                    "conforme": 7
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 5,
+                    "realizado": 5,
+                    "conforme": 5
+                }
+            ],
+            "cor aparente": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 5,
+                    "realizado": 6,
+                    "conforme": 6
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 5,
+                    "realizado": 6,
+                    "conforme": 6
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 5,
+                    "realizado": 5,
+                    "conforme": 5
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 5,
+                    "realizado": 7,
+                    "conforme": 7
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 5,
+                    "realizado": 6,
+                    "conforme": 6
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 5,
+                    "realizado": 8,
+                    "conforme": 8
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 5,
+                    "realizado": 6,
+                    "conforme": 6
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 5,
+                    "realizado": 7,
+                    "conforme": 7
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 5,
+                    "realizado": 5,
+                    "conforme": 5
+                }
+            ],
+            "cloro residual livre": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 10,
+                    "realizado": 10,
+                    "conforme": 10
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 10,
+                    "realizado": 13,
+                    "conforme": 13
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 5,
+                    "realizado": 7,
+                    "conforme": 7
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 5,
+                    "realizado": 5,
+                    "conforme": 5
+                }
+            ],
+            "coliforme total": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 10,
+                    "realizado": 10,
+                    "conforme": 10
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 10,
+                    "realizado": 12,
+                    "conforme": 12
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 5,
+                    "realizado": 7,
+                    "conforme": 7
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 5,
+                    "realizado": 5,
+                    "conforme": 5
+                }
+            ],
+            "ecoli": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 10,
+                    "realizado": 10,
+                    "conforme": 10
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 10,
+                    "realizado": 12,
+                    "conforme": 12
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 10,
+                    "realizado": 11,
+                    "conforme": 11
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 5,
+                    "realizado": 7,
+                    "conforme": 7
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 5,
+                    "realizado": 5,
+                    "conforme": 5
+                }
+            ]
+        }
+    },
+    "RIO CLARO":
+    {
+        "municipio": "SÃO PAULO",
+        "dados": {
+            "turbidez": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 205,
+                    "realizado": 235,
+                    "conforme": 235
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 205,
+                    "realizado": 210,
+                    "conforme": 210
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 205,
+                    "realizado": 213,
+                    "conforme": 213
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 205,
+                    "realizado": 215,
+                    "conforme": 215
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 205,
+                    "realizado": 212,
+                    "conforme": 212
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 205,
+                    "realizado": 210,
+                    "conforme": 210
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 205,
+                    "realizado": 220,
+                    "conforme": 220
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 148,
+                    "realizado": 219,
+                    "conforme": 219
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 148,
+                    "realizado": 162,
+                    "conforme": 162
+                }
+            ],
+            "cor aparente": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 49,
+                    "realizado": 81,
+                    "conforme": 81
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 49,
+                    "realizado": 70,
+                    "conforme": 70
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 49,
+                    "realizado": 67,
+                    "conforme": 67
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 49,
+                    "realizado": 71,
+                    "conforme": 71
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 49,
+                    "realizado": 68,
+                    "conforme": 68
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 49,
+                    "realizado": 195,
+                    "conforme": 195
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 49,
+                    "realizado": 220,
+                    "conforme": 220
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 148,
+                    "realizado": 219,
+                    "conforme": 219
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 148,
+                    "realizado": 162,
+                    "conforme": 162
+                }
+            ],
+            "cloro residual livre": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 205,
+                    "realizado": 235,
+                    "conforme": 235
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 205,
+                    "realizado": 210,
+                    "conforme": 210
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 205,
+                    "realizado": 213,
+                    "conforme": 213
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 205,
+                    "realizado": 215,
+                    "conforme": 215
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 205,
+                    "realizado": 212,
+                    "conforme": 212
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 205,
+                    "realizado": 210,
+                    "conforme": 210
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 205,
+                    "realizado": 220,
+                    "conforme": 220
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 148,
+                    "realizado": 219,
+                    "conforme": 219
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 148,
+                    "realizado": 162,
+                    "conforme": 162
+                }
+            ],
+            "coliforme total": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 205,
+                    "realizado": 235,
+                    "conforme": 233
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 205,
+                    "realizado": 210,
+                    "conforme": 210
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 205,
+                    "realizado": 213,
+                    "conforme": 213
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 205,
+                    "realizado": 215,
+                    "conforme": 214
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 205,
+                    "realizado": 212,
+                    "conforme": 212
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 205,
+                    "realizado": 210,
+                    "conforme": 210
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 205,
+                    "realizado": 220,
+                    "conforme": 220
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 148,
+                    "realizado": 219,
+                    "conforme": 219
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 148,
+                    "realizado": 159,
+                    "conforme": 159
+                }
+            ],
+            "ecoli": [
+                {
+                    "mes": "Janeiro",
+                    "exigido": 205,
+                    "realizado": 235,
+                    "conforme": 235
+                },
+                {
+                    "mes": "Fevereiro",
+                    "exigido": 205,
+                    "realizado": 210,
+                    "conforme": 210
+                },
+                {
+                    "mes": "Março",
+                    "exigido": 205,
+                    "realizado": 213,
+                    "conforme": 213
+                },
+                {
+                    "mes": "Abril",
+                    "exigido": 205,
+                    "realizado": 215,
+                    "conforme": 215
+                },
+                {
+                    "mes": "Maio",
+                    "exigido": 205,
+                    "realizado": 212,
+                    "conforme": 212
+                },
+                {
+                    "mes": "Junho",
+                    "exigido": 205,
+                    "realizado": 210,
+                    "conforme": 210
+                },
+                {
+                    "mes": "Julho",
+                    "exigido": 205,
+                    "realizado": 220,
+                    "conforme": 220
+                },
+                {
+                    "mes": "Agosto",
+                    "exigido": 148,
+                    "realizado": 219,
+                    "conforme": 219
+                },
+                {
+                    "mes": "Setembro",
+                    "exigido": 148,
+                    "realizado": 159,
+                    "conforme": 159
+                }
+            ]
+        }
+    }
+}
